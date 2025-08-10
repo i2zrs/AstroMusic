@@ -47,6 +47,7 @@ To add AstroMusic to your Discord server and start enjoying your favorite tunes,
 3. Begin using the bot by invoking its commands through slash commands or the designated prefix.
 
 
+https://discord.com/api/webhooks/1404072503881760798/K4GuspqLuLqshfHTN9hJeoxjq0_4B8GxQNDKRPL9R5_eokY5ABcBf-3EI8H50Ll0-rgV
 
 Here's an image that provides an illustration of AstroMusic in action:
 
